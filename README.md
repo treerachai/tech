@@ -1,4 +1,4 @@
-# tech" >> README.md
+# tech
 git init
 git add README.md
 git commit -m "first commit"
